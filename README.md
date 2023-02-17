@@ -18,5 +18,5 @@ You've lost your hat! Fortunately, this terminal game will allow you to retrieve
 5. Avoid all holes while staying in bounds on your way to find your hat to win the game.
 
 ## Technologies
--JavaScript
--Node.js
+- JavaScript
+- Node.js
